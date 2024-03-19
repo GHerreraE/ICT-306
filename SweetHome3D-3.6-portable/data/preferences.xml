@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Portable user preferences 3.0</comment>
+<entry key="rulersVisible">true</entry>
+<entry key="furnitureIconYaw#2">0.3926991</entry>
+<entry key="furnitureIconYaw#1">0.3926991</entry>
+<entry key="furnitureDepth#2">15.0</entry>
+<entry key="furnitureDoorOrWindow#2">false</entry>
+<entry key="furnitureDepth#1">299.99988</entry>
+<entry key="furnitureMovable#2">true</entry>
+<entry key="furnitureDoorOrWindow#1">false</entry>
+<entry key="furnitureMovable#1">true</entry>
+<entry key="furnitureCategory#2">Bureau</entry>
+<entry key="furnitureCategory#1">Bureau</entry>
+<entry key="furnitureModelRotation#2">1 0 0 0 1 0 0 0 1</entry>
+<entry key="furnitureModelRotation#1">1 0 0 0 1 0 0 0 1</entry>
+<entry key="recentHomes#2">C:\Users\gonherrerae\Documents\GitHub\ICT-306\Matériel\Bâtiment X.sh3d</entry>
+<entry key="furnitureProportional#2">true</entry>
+<entry key="furnitureIcon#2">file:Furniture-3-9211370970277025546.pref</entry>
+<entry key="recentHomes#1">C:\Users\gonherrerae\Documents\GitHub\ICT-306\Personnel\Bâtiment X.sh3d</entry>
+<entry key="furnitureIcon#1">file:Furniture-3-5457285255894505107.pref</entry>
+<entry key="furnitureProportional#1">true</entry>
+<entry key="newHomeWallHeight">250.0</entry>
+<entry key="furnitureElevation#2">0.0</entry>
+<entry key="language">fr</entry>
+<entry key="furnitureElevation#1">0.0</entry>
+<entry key="autoCompletionStrings#2">Salle de bain,Chambre,Cuisine,Salon,Salle à manger,Entrée</entry>
+<entry key="autoCompletionStrings#1">Sous-sol,Rez-de-chaussée,1er étage,2ème étage,3ème étage</entry>
+<entry key="navigationPanelVisible">true</entry>
+<entry key="furnitureBackFaceShown#2">false</entry>
+<entry key="furnitureWidth#2">300.0</entry>
+<entry key="furnitureBackFaceShown#1">false</entry>
+<entry key="furnitureWidth#1">384.0</entry>
+<entry key="gridVisible">true</entry>
+<entry key="wallPattern">hatchUp</entry>
+<entry key="furnitureName#2">window_shop</entry>
+<entry key="furnitureCatalogViewedInTree">true</entry>
+<entry key="furnitureName#1">revdoor</entry>
+<entry key="magnetismEnabled">true</entry>
+<entry key="unit">CENTIMETER</entry>
+<entry key="newWallThickness">7.5</entry>
+<entry key="furnitureViewedFromTop">true</entry>
+<entry key="autoSaveDelayForRecovery">600000</entry>
+<entry key="autoCompletionProperty#2">RoomName</entry>
+<entry key="autoCompletionProperty#1">LevelName</entry>
+<entry key="roomFloorColoredOrTextured">false</entry>
+<entry key="furnitureHeight#2">200.00002</entry>
+<entry key="furnitureHeight#1">230.0</entry>
+<entry key="furnitureModel#2">jar:file:Furniture-3-6997692701551582471.pref!/window_shop.obj</entry>
+<entry key="furnitureModel#1">jar:file:Furniture-3-6956692654102684332.pref!/revdoor.obj</entry>
+<entry key="newFloorThickness">12.0</entry>
+</properties>
