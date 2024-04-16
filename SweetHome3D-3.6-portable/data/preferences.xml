@@ -15,9 +15,10 @@
 <entry key="furnitureCategory#1">Bureau</entry>
 <entry key="furnitureModelRotation#2">1 0 0 0 1 0 0 0 1</entry>
 <entry key="furnitureModelRotation#1">1 0 0 0 1 0 0 0 1</entry>
-<entry key="recentHomes#2">C:\Users\gonherrerae\Documents\GitHub\ICT-306\Matériel\Bâtiment X.sh3d</entry>
+<entry key="recentHomes#3">C:\Users\gonherrerae\Documents\GitHub\ICT-306\Matériel\Bâtiment X.sh3d</entry>
+<entry key="recentHomes#2">C:\Users\gonherrerae\Downloads\Bâtiment X (2).sh3d</entry>
 <entry key="furnitureIcon#2">file:Furniture-3-9211370970277025546.pref</entry>
-<entry key="recentHomes#1">C:\Users\gonherrerae\Downloads\Bâtiment X (2).sh3d</entry>
+<entry key="recentHomes#1">C:\Users\gonherrerae\Downloads\Bâtiment X (3).sh3d</entry>
 <entry key="furnitureProportional#2">true</entry>
 <entry key="furnitureIcon#1">file:Furniture-3-5457285255894505107.pref</entry>
 <entry key="furnitureProportional#1">true</entry>
@@ -43,8 +44,8 @@
 <entry key="furnitureViewedFromTop">true</entry>
 <entry key="autoSaveDelayForRecovery">600000</entry>
 <entry key="autoCompletionProperty#2">RoomName</entry>
-<entry key="roomFloorColoredOrTextured">false</entry>
 <entry key="autoCompletionProperty#1">LevelName</entry>
+<entry key="roomFloorColoredOrTextured">false</entry>
 <entry key="furnitureHeight#2">200.00002</entry>
 <entry key="furnitureHeight#1">230.0</entry>
 <entry key="furnitureModel#2">jar:file:Furniture-3-6997692701551582471.pref!/window_shop.obj</entry>
